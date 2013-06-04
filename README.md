@@ -83,10 +83,10 @@ EMENTA
 #### Aula 07 - Prática
 * Continuação do projeto
 
-#### Aula 09 - Prática
+#### Aula 08 - Prática
 * Finalização do projeto
 
-#### Aula 10 - Publicando a aplicação
+#### Aula 09 - Publicando a aplicação
 * Deploy
 * Dúvidas aleatórias
 
